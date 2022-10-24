@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Robles</h1>
 <h3 align="center">A Frontend Developer from the San Francisco Bay Area</h3>
 
-- 🔭 I’m currently working on [Thrifts](https://github.com/7vma/WeThrift-frontend)
+- 🔭 I’m currently working on [Thrifts](https://github.com/7vma/WeThrift-frontend), [AnimeDB](https://anime-db.netlify.app/)
 
 - 🌱 I’m currently learning **TailwindCSS, Next.JS, & mastering my craft**
 
