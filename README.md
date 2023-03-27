@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm David Robles</h1>
 <h3 align="center">A Frontend Developer from the San Francisco Bay Area</h3>
 
-- 🔭 I’m currently working on [Thrifts](https://github.com/7vma/WeThrift-frontend), [AnimeDB](https://anime-db.netlify.app/)
 
-- 🌱 I’m currently learning **TailwindCSS, Next.JS, & mastering my craft**
-
-- 📫 How to reach me **Robles23david@gmail.com**
-
-- ⚡ Fun fact **Im a RN, sound engineer, and love to create.**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me via LinkedIn</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david-robles-dr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/david-robles-dr" height="30" width="40" /></a>
 </p>
